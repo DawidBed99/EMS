@@ -40,7 +40,16 @@
 * @mui/material
 * @mui/x-date-pickers
 
-## Screenshots:
+### How to run this app
+
+- Clone this repository
+- Open your favorite code editor
+- cd backend package
+- Run EmployeeManagmentBackendApplication.java
+- Open new code editor
+- Open frontend package
+- Type "npm install" command
+- Type "npm start" command to start react app
   
 ## Screenshots:
 ![1](https://github.com/DawidBed99/EMS/assets/128499430/35829777-9f9c-4a05-b338-c1a480ed5e26)
