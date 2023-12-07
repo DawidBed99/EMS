@@ -44,7 +44,7 @@
 
 - Clone this repository
 - Open your favorite code editor
-- cd backend package
+- Open backend package
 - Run EmployeeManagmentBackendApplication.java
 - Open new code editor
 - Open frontend package
